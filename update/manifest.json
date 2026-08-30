@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.30-1601",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-1601.tar.gz",
-  "sha256": "ef22f5ce6377abe048fb0114525bda8c1d2b69c17f7ffe06826f72d2270294a2",
-  "notes": "Update button in the header; honest about what is installed."
+  "version": "2026.08.30-1615",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-1615.tar.gz",
+  "sha256": "3e8ace8f7d15f17318a4072b1609c12b93752a93a2c43d03f8d16b0a4e8b6ed5",
+  "notes": "Settings application; update button in the header."
 }
