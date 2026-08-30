@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.30-1527",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-1527.tar.gz",
-  "sha256": "d0b0b258656e9a2b0480a8efc4b7e9eb99d65991273c97f796ab723afe9774c4",
-  "notes": "Clearer update flow; the assistant can now install updates itself."
+  "version": "2026.08.30-1601",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-1601.tar.gz",
+  "sha256": "ef22f5ce6377abe048fb0114525bda8c1d2b69c17f7ffe06826f72d2270294a2",
+  "notes": "Update button in the header; honest about what is installed."
 }
