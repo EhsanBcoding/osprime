@@ -1,7 +1,7 @@
 {
-  "version": "2026.08.30-1955",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-1955.tar.gz",
-  "sha256": "f949c0f2fcf72aa119d5c1d1d4e151b6c7c5ade0713949f6c2ffe62c1e3b1f3b",
-  "packages": ["ghostscript"],
-  "notes": "First two skills, and the system that retrieves them."
+  "version": "2026.08.30-2023",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-2023.tar.gz",
+  "sha256": "11a82be3e6b6557fa8f55f246a4a372f8c0acc445162a9e39827135304d9025c",
+  "packages": [],
+  "notes": "Applications launch from the menu again."
 }
