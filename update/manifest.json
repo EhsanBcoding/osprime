@@ -1,7 +1,7 @@
 {
-  "version": "2026.08.30-2053",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-2053.tar.gz",
-  "sha256": "ebfecb6d625bcb085ea26c20f291261ce2fa3205796051e78bedfc079eee6c1e",
+  "version": "2026.08.30-2104",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-2104.tar.gz",
+  "sha256": "247c3272970cd11dbd76da5798be34ec0cf9ee5db8da6032854c3651cc4a6363",
   "packages": [],
-  "notes": "Timezones by city name; browser launches; menu no longer offers dead entries."
+  "notes": "Browser opens from the menu; the clock explains when a host is overriding it."
 }
