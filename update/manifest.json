@@ -1,7 +1,7 @@
 {
-  "version": "2026.08.30-2104",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-2104.tar.gz",
-  "sha256": "247c3272970cd11dbd76da5798be34ec0cf9ee5db8da6032854c3651cc4a6363",
+  "version": "2026.08.30-2113",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-2113.tar.gz",
+  "sha256": "14e7a4953576760fa03509314ef5e0655f3c5045106ae2d2e1e6a50e7aeed803",
   "packages": [],
-  "notes": "Browser opens from the menu; the clock explains when a host is overriding it."
+  "notes": "Browser recovers from a profile lock left by the installer."
 }
