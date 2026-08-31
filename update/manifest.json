@@ -1,7 +1,7 @@
 {
-  "version": "2026.08.30-2034",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-2034.tar.gz",
-  "sha256": "bab274a9969d97998b46ca2828c67055f749d22da581f4e151f6219be656a0c8",
+  "version": "2026.08.30-2053",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-2053.tar.gz",
+  "sha256": "ebfecb6d625bcb085ea26c20f291261ce2fa3205796051e78bedfc079eee6c1e",
   "packages": [],
-  "notes": "Failed actions can no longer be reported as successes."
+  "notes": "Timezones by city name; browser launches; menu no longer offers dead entries."
 }
