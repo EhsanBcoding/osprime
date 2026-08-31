@@ -1,7 +1,7 @@
 {
-  "version": "2026.08.30-1717",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-1717.tar.gz",
-  "sha256": "3a755054d170f1e1090ec5404e6c4c5fc935b1e570d869fe3b212a43a76749bd",
+  "version": "2026.08.30-1754",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-1754.tar.gz",
+  "sha256": "65fca345879fca61a6c5f096e96fcae3316d4a6af3e4a83d4e668ece44d81b7a",
   "packages": [],
-  "notes": "System-level updates: packages, services and menu entries."
+  "notes": "Curated Apps menu; Settings in the menu; visible errors when system files fail."
 }
