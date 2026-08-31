@@ -1,7 +1,7 @@
 {
-  "version": "2026.08.30-1935",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-1935.tar.gz",
-  "sha256": "fc36d739719fd7214ee0a2d2f08b72f1ed6de366b1c8495c67a09f43cef04ed1",
-  "packages": [],
-  "notes": "Menu finds apps with reverse-DNS desktop names."
+  "version": "2026.08.30-1955",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-1955.tar.gz",
+  "sha256": "f949c0f2fcf72aa119d5c1d1d4e151b6c7c5ade0713949f6c2ffe62c1e3b1f3b",
+  "packages": ["ghostscript"],
+  "notes": "First two skills, and the system that retrieves them."
 }
