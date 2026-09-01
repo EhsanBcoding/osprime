@@ -1,7 +1,7 @@
 {
-  "version": "2026.08.31-2234",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.31-2234.tar.gz",
-  "sha256": "beedb4ed62af65ba6fe4f458fc5711acd2cae02ef16ac77ee74df56a4f85440b",
+  "version": "2026.08.31-2240",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.31-2240.tar.gz",
+  "sha256": "8240a5525c61a735bc9ffb1d91fb784f4babde49c7f72430ce7f99ca86ad0ae7",
   "packages": ["grim","slurp","wl-clipboard","udisks2","gvfs","thunar-volman"],
-  "notes": "Screenshots, file access, removable drives."
+  "notes": "PDF compression as a tool; shell runs from home; screenshots; file access."
 }
