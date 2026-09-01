@@ -1,7 +1,7 @@
 {
-  "version": "2026.08.31-2203",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.31-2203.tar.gz",
-  "sha256": "867f942b0b362e0fa590a4ec571c32196825774696d5b7210a5fbcc7204953d9",
-  "packages": ["udisks2","gvfs","thunar-volman"],
-  "notes": "USB drives visible in Files and reachable from chat."
+  "version": "2026.08.31-2234",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.31-2234.tar.gz",
+  "sha256": "beedb4ed62af65ba6fe4f458fc5711acd2cae02ef16ac77ee74df56a4f85440b",
+  "packages": ["grim","slurp","wl-clipboard","udisks2","gvfs","thunar-volman"],
+  "notes": "Screenshots, file access, removable drives."
 }
