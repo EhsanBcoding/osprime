@@ -1,7 +1,7 @@
 {
-  "version": "2026.08.30-2113",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.30-2113.tar.gz",
-  "sha256": "14e7a4953576760fa03509314ef5e0655f3c5045106ae2d2e1e6a50e7aeed803",
+  "version": "2026.08.31-1835",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.08.31-1835.tar.gz",
+  "sha256": "264467a50b8c0831777855af7775308f6415fd165294c48a032b76e28e5b104b",
   "packages": [],
-  "notes": "Browser recovers from a profile lock left by the installer."
+  "notes": "Wi-Fi actually connects; inline password; hidden networks."
 }
