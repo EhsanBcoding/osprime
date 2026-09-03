@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.01-1209",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.01-1209.tar.gz",
-  "sha256": "8e2657c7136d28993fe5bdac5d4429068a0444620d735b5ab0dd2599c384d46b",
-  "packages": ["wlr-randr","grim","slurp","wl-clipboard","udisks2","gvfs","thunar-volman"],
-  "notes": "Display scaling, screenshots, standard mouse buttons, desktop menu."
+  "version": "2026.09.03-1413",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.03-1413.tar.gz",
+  "sha256": "62df1ffa98a7b40aae2b0d3b6b0d0a4010ede072b0fc9f33a521fab4df116f2f",
+  "packages": ["wlr-randr","grim","slurp","wl-clipboard","udisks2","gvfs","thunar-volman","pcmanfm-qt"],
+  "notes": "Display scaling, screenshots, standard mouse buttons, desktop menu, optional desktop icons."
 }
