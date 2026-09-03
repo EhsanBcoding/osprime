@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.03-1413",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.03-1413.tar.gz",
-  "sha256": "62df1ffa98a7b40aae2b0d3b6b0d0a4010ede072b0fc9f33a521fab4df116f2f",
-  "packages": ["wlr-randr","grim","slurp","wl-clipboard","udisks2","gvfs","thunar-volman","pcmanfm-qt"],
-  "notes": "Display scaling, screenshots, standard mouse buttons, desktop menu, optional desktop icons."
+  "version": "2026.09.03-1503",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.03-1503.tar.gz",
+  "sha256": "daf05413a5d9a4f29cc6dc7486ce25932b2e50311012c468d5829d9b261a27e9",
+  "packages": ["hicolor-icon-theme","papirus-icon-theme","adwaita-icon-theme","wlr-randr","grim","slurp","wl-clipboard","udisks2","gvfs","thunar-volman"],
+  "notes": "Icons everywhere; menu icon lookup restored."
 }
