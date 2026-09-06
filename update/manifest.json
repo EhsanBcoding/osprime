@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.06-1525",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.06-1525.tar.gz",
-  "sha256": "b0568eaa7df5b9d9fe57c0e978ee159b853674e18d13bd02aecdfee0835cf004",
-  "packages": ["gtk-layer-shell","python-gobject","python-cairo","xdg-utils"],
-  "notes": "A real desktop: icons and a full right-click menu. Display scaling now works."
+  "version": "2026.09.06-1638",
+  "url": "https://EhsanBcoding.github.io/osprime/update/osprime-2026.09.06-1638.tar.gz",
+  "sha256": "e75fdf68eecc427fbd6b7b8e092fcc0f5d9a08ed59dccb41ddc94f19d345d7ec",
+  "packages": [],
+  "notes": "Files, open and power tools. Pictures show in the chat. Invented answers blocked."
 }
