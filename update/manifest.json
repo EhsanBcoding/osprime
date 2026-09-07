@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.06-1949",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.06-1949.tar.gz",
-  "sha256": "c78555cae66c196704ce19c17ee34f0f69dc63fc83eb9edf567cf677647d7f3d",
-  "packages": ["imagemagick","tesseract","tesseract-data-eng","tesseract-data-fas","poppler"],
-  "notes": "Five more skills: OCR, sign a PDF, passport photo, batch images, write a CV."
+  "version": "2026.09.07-0121",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.07-0121.tar.gz",
+  "sha256": "e61105552b994d0e5e2570ab4032f1bb7aa966b8b7a19a7325b29d3e31b13df9",
+  "packages": [],
+  "notes": "Model follows the hardware; the wait before the first answer is gone."
 }
