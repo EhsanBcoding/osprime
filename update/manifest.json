@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.07-0201",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.07-0201.tar.gz",
-  "sha256": "0de918c6c0c669cfa19c22e1a4d39da039cc0390aacf910c5473b09190cc9db2",
-  "packages": [],
-  "notes": "The engine can no longer be brought down by a performance flag."
+  "version": "2026.09.07-0220",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.07-0220.tar.gz",
+  "sha256": "bef81b357e6d0025507f05938506f1c93a4cb61231d310eefe5932563457588d",
+  "packages": ["vulkan-tools","vulkan-intel","vulkan-radeon"],
+  "notes": "GPU detection, and an opt-in GPU build. Context fix confirmed working."
 }
