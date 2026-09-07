@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.07-0220",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.07-0220.tar.gz",
-  "sha256": "bef81b357e6d0025507f05938506f1c93a4cb61231d310eefe5932563457588d",
-  "packages": ["vulkan-tools","vulkan-intel","vulkan-radeon"],
-  "notes": "GPU detection, and an opt-in GPU build. Context fix confirmed working."
+  "version": "2026.09.07-0234",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.07-0234.tar.gz",
+  "sha256": "c75ad6d96661469aba5c416040e2e0c8f3d7844e7af0ab52fc05fa5a72dceb0e",
+  "packages": [],
+  "notes": "Find the graphics card without needing its driver; a real NVIDIA path."
 }
