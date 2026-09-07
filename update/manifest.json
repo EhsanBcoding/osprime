@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.07-0121",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.07-0121.tar.gz",
-  "sha256": "e61105552b994d0e5e2570ab4032f1bb7aa966b8b7a19a7325b29d3e31b13df9",
+  "version": "2026.09.07-0151",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.07-0151.tar.gz",
+  "sha256": "3ca0f0abdb9dde9b44cae61117b1c5a370e6b892b09d4825f4426e33b7b0c374",
   "packages": [],
-  "notes": "Model follows the hardware; the wait before the first answer is gone."
+  "notes": "Context window fixed — the tools were being silently truncated away."
 }
