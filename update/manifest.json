@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.07-0234",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.07-0234.tar.gz",
-  "sha256": "c75ad6d96661469aba5c416040e2e0c8f3d7844e7af0ab52fc05fa5a72dceb0e",
+  "version": "2026.09.07-0304",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.07-0304.tar.gz",
+  "sha256": "4eb6ff4e9135d5ff2d07124519589b1af83c9a8b76f180fe5c3bc8a43359f829",
   "packages": [],
-  "notes": "Find the graphics card without needing its driver; a real NVIDIA path."
+  "notes": "Pin the desktop to the screen's own graphics card."
 }
