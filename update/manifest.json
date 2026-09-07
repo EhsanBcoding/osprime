@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.07-0151",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.07-0151.tar.gz",
-  "sha256": "3ca0f0abdb9dde9b44cae61117b1c5a370e6b892b09d4825f4426e33b7b0c374",
+  "version": "2026.09.07-0201",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.07-0201.tar.gz",
+  "sha256": "0de918c6c0c669cfa19c22e1a4d39da039cc0390aacf910c5473b09190cc9db2",
   "packages": [],
-  "notes": "Context window fixed — the tools were being silently truncated away."
+  "notes": "The engine can no longer be brought down by a performance flag."
 }
