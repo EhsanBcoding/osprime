@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.06-1638",
-  "url": "https://EhsanBcoding.github.io/osprime/update/osprime-2026.09.06-1638.tar.gz",
-  "sha256": "e75fdf68eecc427fbd6b7b8e092fcc0f5d9a08ed59dccb41ddc94f19d345d7ec",
-  "packages": [],
-  "notes": "Files, open and power tools. Pictures show in the chat. Invented answers blocked."
+  "version": "2026.09.06-1905",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.06-1905.tar.gz",
+  "sha256": "f06da821f020e65b5e088a8fd17ef4a02d13e607fa1ab96509ab78f9f3364b41",
+  "packages": ["qpdf"],
+  "notes": "Five skills with real tools: wifi, find a lost file, free disk space, merge PDFs, remove background."
 }
