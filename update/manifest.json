@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.07-0304",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.07-0304.tar.gz",
-  "sha256": "4eb6ff4e9135d5ff2d07124519589b1af83c9a8b76f180fe5c3bc8a43359f829",
+  "version": "2026.09.09-1917",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.09-1917.tar.gz",
+  "sha256": "7a1b9fe202fbb3c3492565bef986bd3d146418ced695a46d1d0882561159375c",
   "packages": [],
-  "notes": "Pin the desktop to the screen's own graphics card."
+  "notes": "Ask in chat whether the model is on the processor or the graphics card."
 }
