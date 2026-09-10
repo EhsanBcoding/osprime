@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.09-2144",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.09-2144.tar.gz",
-  "sha256": "17d689282a462ddb6198d4e222a8ef6b5470034c510c157c02ff7f7b24dc7a49",
+  "version": "2026.09.09-2231",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.09-2231.tar.gz",
+  "sha256": "95b6945673503ee51f5b7d8aa07cd119c8e165f51957722d9d9485e2adfda592",
   "packages": [],
-  "notes": "Never hand the desktop to the discrete card."
+  "notes": "Never install a kernel module without upgrading the kernel first."
 }
