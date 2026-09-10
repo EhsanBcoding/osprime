@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.09-2239",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.09-2239.tar.gz",
-  "sha256": "d5db17351ef571863c633074ba1577cafe4ab4fafcc916807789f623af12ef80",
+  "version": "2026.09.09-2252",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.09-2252.tar.gz",
+  "sha256": "91e373785c7a41b8e9e4cfce067c8fa0d6089d7e05833a0570a878e8ad1a2798",
   "packages": [],
-  "notes": "Read llama.cpp's real wording when asking where the model runs."
+  "notes": "Ask nvidia-smi whether the engine holds graphics memory."
 }
