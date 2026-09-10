@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.09-1952",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.09-1952.tar.gz",
-  "sha256": "d4eb8e431980cd06691299d732497e30177b2a94495db32508251f7d672488f1",
+  "version": "2026.09.09-2008",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.09-2008.tar.gz",
+  "sha256": "600633353eb12478f2aea1e9529d8ccbf5a14dce0611bee823e05923c9bb65ff",
   "packages": [],
-  "notes": "GPU acceleration via the ggml backend packages, and a log for tool failures."
+  "notes": "The GPU test asks the engine, not the clock. Fix the regex that broke model_status."
 }
