@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.10-0154",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.10-0154.tar.gz",
-  "sha256": "b08600ac4bf31afd3ed1e1f904c286a7c012f532c937d2a3cf18dc9c1d27af29",
+  "version": "2026.09.10-0220",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.10-0220.tar.gz",
+  "sha256": "4162fa4f73457b17f335a14342ef8798b25a0f7ed7c417714a5b59dcf5dffb93",
   "packages": [],
-  "notes": "Open pages through the browser script that has the flags chromium needs."
+  "notes": "An exit code of zero means the page opened, not that it failed."
 }
