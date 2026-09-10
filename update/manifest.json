@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.10-0117",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.10-0117.tar.gz",
-  "sha256": "fd4cdf9aaae0052f7cf9f66300347bc4e0537d1a171037f5bf712120d6eca429",
+  "version": "2026.09.10-0142",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.10-0142.tar.gz",
+  "sha256": "cf0b0b1c23e9dec987d539f27b98df07c276b9ab9cbefe0714e5fe96e61dc98b",
   "packages": [],
-  "notes": "Links that open, and links that must be real before they open."
+  "notes": "Windows that actually open, and a search that admits when it is broken."
 }
