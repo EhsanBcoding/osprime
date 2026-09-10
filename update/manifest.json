@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.09-2252",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.09-2252.tar.gz",
-  "sha256": "91e373785c7a41b8e9e4cfce067c8fa0d6089d7e05833a0570a878e8ad1a2798",
+  "version": "2026.09.10-0117",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.10-0117.tar.gz",
+  "sha256": "fd4cdf9aaae0052f7cf9f66300347bc4e0537d1a171037f5bf712120d6eca429",
   "packages": [],
-  "notes": "Ask nvidia-smi whether the engine holds graphics memory."
+  "notes": "Links that open, and links that must be real before they open."
 }
