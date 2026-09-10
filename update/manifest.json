@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.09-2008",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.09-2008.tar.gz",
-  "sha256": "600633353eb12478f2aea1e9529d8ccbf5a14dce0611bee823e05923c9bb65ff",
+  "version": "2026.09.09-2144",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.09-2144.tar.gz",
+  "sha256": "17d689282a462ddb6198d4e222a8ef6b5470034c510c157c02ff7f7b24dc7a49",
   "packages": [],
-  "notes": "The GPU test asks the engine, not the clock. Fix the regex that broke model_status."
+  "notes": "Never hand the desktop to the discrete card."
 }
