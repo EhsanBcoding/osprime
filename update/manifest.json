@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.09-1917",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.09-1917.tar.gz",
-  "sha256": "7a1b9fe202fbb3c3492565bef986bd3d146418ced695a46d1d0882561159375c",
+  "version": "2026.09.09-1952",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.09-1952.tar.gz",
+  "sha256": "d4eb8e431980cd06691299d732497e30177b2a94495db32508251f7d672488f1",
   "packages": [],
-  "notes": "Ask in chat whether the model is on the processor or the graphics card."
+  "notes": "GPU acceleration via the ggml backend packages, and a log for tool failures."
 }
