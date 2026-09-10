@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.10-0220",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.10-0220.tar.gz",
-  "sha256": "4162fa4f73457b17f335a14342ef8798b25a0f7ed7c417714a5b59dcf5dffb93",
+  "version": "2026.09.10-0256",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.10-0256.tar.gz",
+  "sha256": "c666b884f926473e05d475bc8d5ae7760df3962dbee609447530e37cfc6ad560",
   "packages": [],
-  "notes": "An exit code of zero means the page opened, not that it failed."
+  "notes": "Graphical programs run as the user, not as root."
 }
