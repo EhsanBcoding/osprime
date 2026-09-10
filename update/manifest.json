@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.10-0142",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.10-0142.tar.gz",
-  "sha256": "cf0b0b1c23e9dec987d539f27b98df07c276b9ab9cbefe0714e5fe96e61dc98b",
+  "version": "2026.09.10-0154",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.10-0154.tar.gz",
+  "sha256": "b08600ac4bf31afd3ed1e1f904c286a7c012f532c937d2a3cf18dc9c1d27af29",
   "packages": [],
-  "notes": "Windows that actually open, and a search that admits when it is broken."
+  "notes": "Open pages through the browser script that has the flags chromium needs."
 }
