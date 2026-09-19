@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.19-1604",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.19-1604.tar.gz",
-  "sha256": "d0e32a89508923afe608aaf9111cfa145f0d375c1456c1d697391d0b7c57b03d",
+  "version": "2026.09.19-1637",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.19-1637.tar.gz",
+  "sha256": "a2504688839ee8a7bd8d7e11f6db0f53a74331c517acb5b98b5f22a79ef866f4",
   "packages": [],
-  "notes": "The shell gate stops reading secrets and piping the web into a shell."
+  "notes": "The assistant no longer runs as root."
 }
