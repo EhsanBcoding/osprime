@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.10-0256",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.10-0256.tar.gz",
-  "sha256": "c666b884f926473e05d475bc8d5ae7760df3962dbee609447530e37cfc6ad560",
+  "version": "2026.09.19-1604",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.19-1604.tar.gz",
+  "sha256": "d0e32a89508923afe608aaf9111cfa145f0d375c1456c1d697391d0b7c57b03d",
   "packages": [],
-  "notes": "Graphical programs run as the user, not as root."
+  "notes": "The shell gate stops reading secrets and piping the web into a shell."
 }
