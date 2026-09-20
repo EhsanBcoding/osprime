@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.20-1502",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-1502.tar.gz",
-  "sha256": "10ea7f328588fd3c6891691f5869b745a2fd5468022d7fea43c5721affc80bb1",
+  "version": "2026.09.20-1514",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-1514.tar.gz",
+  "sha256": "12074841c17ba5f0cec186cf78cfc8a852d6857d470f5da5d287c652ecd1919c",
   "packages": [],
-  "notes": "Fixes a release built with unreadable file permissions, which left the device in a rescue shell. Also: conversations now end when you close the chat window, which is what makes the assistant remember anything."
+  "notes": "Updating from chat no longer throws you out of the chat. The update was succeeding all along; restarting the services mid-answer is what made it look like a failure."
 }
