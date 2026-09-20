@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.20-1152",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-1152.tar.gz",
-  "sha256": "40797b668d59991754876b7c828d3e5a3c342e72c20b6c765befe56789c69baa",
+  "version": "2026.09.20-1159",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-1159.tar.gz",
+  "sha256": "6451d68e73181f35c00ab262ae639227c247893ec10b0478811c6c5d43a867af",
   "packages": [],
-  "notes": "Keyboard shortcuts, and confirmations a person can read."
+  "notes": "Ask what your shortcuts are."
 }
