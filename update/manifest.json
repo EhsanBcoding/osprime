@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.19-1848",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.19-1848.tar.gz",
-  "sha256": "e6654994f63792a0d39eba1a31c74269c2fa74bf3d816bc11f83322acdfad34c",
+  "version": "2026.09.19-1903",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.19-1903.tar.gz",
+  "sha256": "6a11244b30cc4a4b3a3b577e1b61b4544af052539357757b29d4810bc25afe56",
   "packages": [],
-  "notes": "Let the agent's own voice reach the journal."
+  "notes": "A newline in VERSION, and docs that match reality."
 }
