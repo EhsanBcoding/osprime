@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.19-1637",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.19-1637.tar.gz",
-  "sha256": "a2504688839ee8a7bd8d7e11f6db0f53a74331c517acb5b98b5f22a79ef866f4",
+  "version": "2026.09.19-1738",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.19-1738.tar.gz",
+  "sha256": "0fbe14f1c560dff57563d3e301afa16b9db0f3308dc315d9a3c30bd7e965d9ae",
   "packages": [],
-  "notes": "The assistant no longer runs as root."
+  "notes": "Remove list_dir; list_files already did the job properly."
 }
