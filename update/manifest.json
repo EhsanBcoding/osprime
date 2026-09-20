@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.19-1934",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.19-1934.tar.gz",
-  "sha256": "890ebd8b370509886d75918b5e67f684c21a435721cb9f2964b6bfdc44243871",
+  "version": "2026.09.20-1152",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-1152.tar.gz",
+  "sha256": "40797b668d59991754876b7c828d3e5a3c342e72c20b6c765befe56789c69baa",
   "packages": [],
-  "notes": "Deleting is a tool that uses the trash, not a command nobody will touch."
+  "notes": "Keyboard shortcuts, and confirmations a person can read."
 }
