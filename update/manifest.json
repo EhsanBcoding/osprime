@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.20-2301",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-2301.tar.gz",
-  "sha256": "5e74755b73286fd911482a66db22cf15e79b2b5ab58b8891e005e0aa33449d8d",
+  "version": "2026.09.20-2337",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-2337.tar.gz",
+  "sha256": "13917f2c023b96f25845eb9dab1ceb2329a8c6458a130cd4e90c195928580df9",
   "packages": [],
-  "notes": "Minimise and maximise now appear in the browser's own titlebar too. Chromium draws that one itself and reads the button layout from GTK, which was resolving to close-only."
+  "notes": "You can now install applications — search by what you need it to do, in the Control Panel or just by asking. Everything comes from Flathub's verified catalogue, needs no password, and runs sandboxed."
 }
