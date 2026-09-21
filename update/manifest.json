@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.20-2204",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-2204.tar.gz",
-  "sha256": "01f42c4ea54f59484f7658f641b349db925108bfb21507b849eb821bc5ec2eed",
+  "version": "2026.09.20-2221",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-2221.tar.gz",
+  "sha256": "6afec9e6bf9260374e21fc359b26f97aaf3cd19d4cbd62b2b638edda8ea2cc5a",
   "packages": [],
-  "notes": "The Control Panel: settings now live in their own window with proper pages, starting with a 'This machine' page. The chat keeps only the conversation's own settings. Four settings that were quietly showing defaults instead of real values are fixed."
+  "notes": "The Control Panel gains three things: you can now see and delete everything the assistant has remembered about you, there is a button to go back to the previous version if an update goes wrong, and a Storage page showing what is using the disk."
 }
