@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.20-2221",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-2221.tar.gz",
-  "sha256": "6afec9e6bf9260374e21fc359b26f97aaf3cd19d4cbd62b2b638edda8ea2cc5a",
+  "version": "2026.09.20-2247",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-2247.tar.gz",
+  "sha256": "f9c4b7866916d469f2f6ec67891234ff3aeb55007213d8242c24ccd8b01aa61b",
   "packages": [],
-  "notes": "The Control Panel gains three things: you can now see and delete everything the assistant has remembered about you, there is a button to go back to the previous version if an update goes wrong, and a Storage page showing what is using the disk."
+  "notes": "Windows can now be minimised and maximised, not only closed, and the bottom bar shows what is running so a minimised window has somewhere to go."
 }
