@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.20-1514",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-1514.tar.gz",
-  "sha256": "12074841c17ba5f0cec186cf78cfc8a852d6857d470f5da5d287c652ecd1919c",
+  "version": "2026.09.20-2204",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-2204.tar.gz",
+  "sha256": "01f42c4ea54f59484f7658f641b349db925108bfb21507b849eb821bc5ec2eed",
   "packages": [],
-  "notes": "Updating from chat no longer throws you out of the chat. The update was succeeding all along; restarting the services mid-answer is what made it look like a failure."
+  "notes": "The Control Panel: settings now live in their own window with proper pages, starting with a 'This machine' page. The chat keeps only the conversation's own settings. Four settings that were quietly showing defaults instead of real values are fixed."
 }
