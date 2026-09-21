@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.21-1549",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1549.tar.gz",
-  "sha256": "0d4c420d8f7f5e94536ceff7d4f8c2be85ee066303f0bf703f884c822eff36b1",
+  "version": "2026.09.21-1625",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1625.tar.gz",
+  "sha256": "381bf9a6fb0aeb2bb77fd5d29613714dd1941d611ef1884580df782fb68839c4",
   "packages": [],
-  "notes": "Groundwork for the camera and microphone: the session now starts the audio stack, and the Control Panel lists the cameras and microphones this computer actually has."
+  "notes": "Fixes the sound and capture problems: the session now has a D-Bus bus, so PipeWire is reachable; the volume falls back to ALSA when PipeWire fails instead of giving up; one webcam is listed once instead of four times; and a microphone that is there is no longer reported as absent."
 }
