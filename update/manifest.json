@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.21-1625",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1625.tar.gz",
-  "sha256": "381bf9a6fb0aeb2bb77fd5d29613714dd1941d611ef1884580df782fb68839c4",
+  "version": "2026.09.21-1646",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1646.tar.gz",
+  "sha256": "219e16d01280a89eb254aa828f04d21316550259229e974c84f1326e44f716ff",
   "packages": [],
-  "notes": "Fixes the sound and capture problems: the session now has a D-Bus bus, so PipeWire is reachable; the volume falls back to ALSA when PipeWire fails instead of giving up; one webcam is listed once instead of four times; and a microphone that is there is no longer reported as absent."
+  "notes": "The camera and microphone now have a switch and an indicator. The bottom bar shows a badge whenever anything on the machine is using either one, and names the program. Switching one off means OSprime will not open it at all."
 }
