@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.20-2247",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-2247.tar.gz",
-  "sha256": "f9c4b7866916d469f2f6ec67891234ff3aeb55007213d8242c24ccd8b01aa61b",
+  "version": "2026.09.20-2301",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.20-2301.tar.gz",
+  "sha256": "5e74755b73286fd911482a66db22cf15e79b2b5ab58b8891e005e0aa33449d8d",
   "packages": [],
-  "notes": "Windows can now be minimised and maximised, not only closed, and the bottom bar shows what is running so a minimised window has somewhere to go."
+  "notes": "Minimise and maximise now appear in the browser's own titlebar too. Chromium draws that one itself and reads the button layout from GTK, which was resolving to close-only."
 }
