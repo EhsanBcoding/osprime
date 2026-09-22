@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.21-1725",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1725.tar.gz",
-  "sha256": "91b066e4455c5fed07713a1cc7e6274bcb8850b47b03f5536cace07e71f99a65",
+  "version": "2026.09.21-1758",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1758.tar.gz",
+  "sha256": "d7485ef2a3a703de93993e1c0a8f7cd7a8230cce2500f007d369348a04997da9",
   "packages": [],
-  "notes": "The assistant can take a photo with the webcam now. Ask it to take a picture and it asks you first, opens the camera for a moment, shows you the photo, and lets the camera go."
+  "notes": "The assistant can see. A model that reads images can be installed alongside the current one — it is never chosen automatically, the old model stays on disk, and it is only switched to after it proves it can still call a tool."
 }
