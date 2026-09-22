@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.21-1758",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1758.tar.gz",
-  "sha256": "d7485ef2a3a703de93993e1c0a8f7cd7a8230cce2500f007d369348a04997da9",
+  "version": "2026.09.21-1902",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1902.tar.gz",
+  "sha256": "8ac3a03082382b57112f0c1d6cd7dbe7069c6f4d1e556bd033694bc5ba77a93b",
   "packages": [],
-  "notes": "The assistant can see. A model that reads images can be installed alongside the current one — it is never chosen automatically, the old model stays on disk, and it is only switched to after it proves it can still call a tool."
+  "notes": "Fixes tool calling for models whose chat template has no tool support — OSprime now falls back to its own text protocol when the model ignores the native one. This is what stopped the vision model installing."
 }
