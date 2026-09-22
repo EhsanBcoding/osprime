@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.22-1438",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.22-1438.tar.gz",
-  "sha256": "6ca37fe03b0d84a88d12b872fcba16bff0dfc338cf6ad481922dfbd544a0e9b0",
+  "version": "2026.09.22-1618",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.22-1618.tar.gz",
+  "sha256": "09e210ca2ecb2c4a7938c26caaf36404853c8c62cb96069617ace5d84983e7ea",
   "packages": [],
-  "notes": "Backgrounds: eleven drawn designs in three styles, your own photos, and a slot for real photographs in a future ISO. Pick one by clicking it in the Control Panel, or just ask."
+  "notes": "The background chooser no longer lists every picture on the computer. There is a 'Choose your own' button that opens your folders so you can pick one."
 }
