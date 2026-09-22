@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.21-2128",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-2128.tar.gz",
-  "sha256": "b6441060c5f5a32a741678207c6d6061743b56888c9c73cab75e9ebe85724cde",
+  "version": "2026.09.21-2136",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-2136.tar.gz",
+  "sha256": "6e1c9f6ee42099d5c0d9de2658c587a844a013e401ad33a67b47698177266e04",
   "packages": [],
-  "notes": "The assistant now knows it can see, so it stops refusing to describe photos. It also understands the tool-call format the model actually writes, including the one it invents."
+  "notes": "Taking a photo and saying what is in it is now one step. The assistant no longer takes a picture and then asks you what you were holding."
 }
