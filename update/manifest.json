@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.21-1646",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1646.tar.gz",
-  "sha256": "219e16d01280a89eb254aa828f04d21316550259229e974c84f1326e44f716ff",
+  "version": "2026.09.21-1703",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1703.tar.gz",
+  "sha256": "7e79f574f5ef1ece9b3abd18695d82df6990ed438a986831e4cb22bf7f34630d",
   "packages": [],
-  "notes": "The camera and microphone now have a switch and an indicator. The bottom bar shows a badge whenever anything on the machine is using either one, and names the program. Switching one off means OSprime will not open it at all."
+  "notes": "Voice input can now actually be set up: the speech engine is a package and a script fetches the model. The record button no longer appears when the engine is missing, and the Control Panel says which half is missing instead of just 'unavailable'."
 }
