@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.21-1902",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1902.tar.gz",
-  "sha256": "8ac3a03082382b57112f0c1d6cd7dbe7069c6f4d1e556bd033694bc5ba77a93b",
+  "version": "2026.09.21-1959",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1959.tar.gz",
+  "sha256": "6102ed040cfc4a036e3d3a8437377f84f9d82082a8d64341db5b6f0709c53331",
   "packages": [],
-  "notes": "Fixes tool calling for models whose chat template has no tool support — OSprime now falls back to its own text protocol when the model ignores the native one. This is what stopped the vision model installing."
+  "notes": "When something fails, the chat now shows the real reason instead of the word 'failed', and the camera reports what ffmpeg actually said."
 }
