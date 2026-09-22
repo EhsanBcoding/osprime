@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.21-1959",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-1959.tar.gz",
-  "sha256": "6102ed040cfc4a036e3d3a8437377f84f9d82082a8d64341db5b6f0709c53331",
+  "version": "2026.09.21-2006",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.21-2006.tar.gz",
+  "sha256": "7ba709e72e5e9dd9c2aba16d3cd4985648457e52f875952ffe904674de71c60f",
   "packages": [],
-  "notes": "When something fails, the chat now shows the real reason instead of the word 'failed', and the camera reports what ffmpeg actually said."
+  "notes": "Fixes taking a photo: the camera name the assistant picks is now matched against the cameras that exist, instead of being handed to ffmpeg as a filename."
 }
