@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.22-1745",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.22-1745.tar.gz",
-  "sha256": "d42651aea8eb44bbcf60ccd126c8bbaea7510b3e9751568019be09e79ff5a88c",
+  "version": "2026.09.23-1634",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.23-1634.tar.gz",
+  "sha256": "b3426389807377e4064104810a08b492581fcfe14866cedbf7425afd16eb7d44",
   "packages": [],
-  "notes": "Settings is called Settings again, opens on Home, and is laid out the way people expect: System, Bluetooth and devices, Network, Personalisation, Applications, Time and language, Assistant, Update and recovery. Screen size and text size are now two settings. Fixes a dead line that stopped the whole page loading its values."
+  "notes": "The companion: a movable OSprime button on the desktop that replaces the panel pill, shows when the assistant is working, and can be dragged anywhere. Plus proactivity rules that default to silence."
 }
