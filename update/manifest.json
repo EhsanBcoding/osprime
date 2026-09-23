@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.22-1618",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.22-1618.tar.gz",
-  "sha256": "09e210ca2ecb2c4a7938c26caaf36404853c8c62cb96069617ace5d84983e7ea",
+  "version": "2026.09.22-1745",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.22-1745.tar.gz",
+  "sha256": "d42651aea8eb44bbcf60ccd126c8bbaea7510b3e9751568019be09e79ff5a88c",
   "packages": [],
-  "notes": "The background chooser no longer lists every picture on the computer. There is a 'Choose your own' button that opens your folders so you can pick one."
+  "notes": "Settings is called Settings again, opens on Home, and is laid out the way people expect: System, Bluetooth and devices, Network, Personalisation, Applications, Time and language, Assistant, Update and recovery. Screen size and text size are now two settings. Fixes a dead line that stopped the whole page loading its values."
 }
