@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.23-1843",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.23-1843.tar.gz",
-  "sha256": "5c654be8b5ee705c3037b9b6e11514b357c2688a20ca5016f06394817ef8acfd",
+  "version": "2026.09.23-2017",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.23-2017.tar.gz",
+  "sha256": "8ba8c04d5f43047b2b753a113eb312bc13b7d5256fadfab9c85963b815f8f69b",
   "packages": [],
-  "notes": "Tool groups: the assistant is now shown only the tools a request needs — at most 23 instead of 65. This is what broke on the vision models, where 65 tool definitions filled 88% of the window and the assistant denied abilities it had. Also: malformed tool calls from the model are now tolerated instead of failing the turn."
+  "notes": "Five security fixes that fail closed: a dangerous action with nobody to ask is now refused instead of performed; 'use the cloud only when I ask' no longer sends the conversation to Claude on its own when the local engine is down; reading a file now redacts secrets the same way a shell command already did; the audit log records whether a tool actually succeeded; and two reminders set for the same time both run."
 }
