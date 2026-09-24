@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.24-0029",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.24-0029.tar.gz",
-  "sha256": "3c78b09d253cc2643a8182d04a1b40ad136e0ea4d4a7fdc8f420f5d778bf1ba5",
+  "version": "2026.09.24-0123",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.24-0123.tar.gz",
+  "sha256": "8988e1898ba2a318cb6dde95856e28ff4151e31b984651fc830600de5deae9cc",
   "packages": [],
-  "notes": "Fix: chatting from a paired phone. Sending a message reloaded the page into an error, because the chat page used a browser function that only exists on HTTPS or on the computer itself. The phone now gets a page that works over the home network."
+  "notes": "Tools checked end to end. The assistant no longer shows raw tool markup: a real tool outside this turn's group is simply run, and a made-up one gets one correction. A skill's own tools now always reach the assistant when the skill recognises the request — they were missing on 30% of the ways people ask. Skills also stopped matching unrelated requests: 17 of 59 everyday requests were being given another skill's instructions, such as the Wi-Fi guide for 'turn the volume up'. New: pick a random number, roll a dice, flip a coin. Better routing for Persian requests."
 }
