@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.24-0123",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.24-0123.tar.gz",
-  "sha256": "8988e1898ba2a318cb6dde95856e28ff4151e31b984651fc830600de5deae9cc",
+  "version": "2026.09.24-0147",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.24-0147.tar.gz",
+  "sha256": "b3e69b57d526e4044c2a0027c4f675f08fff5fdac13034b08451828e4983333f",
   "packages": [],
-  "notes": "Tools checked end to end. The assistant no longer shows raw tool markup: a real tool outside this turn's group is simply run, and a made-up one gets one correction. A skill's own tools now always reach the assistant when the skill recognises the request — they were missing on 30% of the ways people ask. Skills also stopped matching unrelated requests: 17 of 59 everyday requests were being given another skill's instructions, such as the Wi-Fi guide for 'turn the volume up'. New: pick a random number, roll a dice, flip a coin. Better routing for Persian requests."
+  "notes": "Picking a random number, doing a calculation or checking the weather no longer asks for permission — they change nothing. The vision models now use a 16384-token context by default, measured on the reference laptop."
 }
