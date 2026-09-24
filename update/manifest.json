@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.23-2319",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.23-2319.tar.gz",
-  "sha256": "83f8c2e77314f92311e38f07878375d81d8f2ea46077c126dbf633a41446f39a",
+  "version": "2026.09.23-2330",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.23-2330.tar.gz",
+  "sha256": "64235a3ab5fbcd79bba47ffb7389a2721db764b31226f4f56ed9b2000e552c5a",
   "packages": [],
-  "notes": "Three more security fixes. Rolling back can no longer install code the assistant could have written: backups now live where only root can write, and root refuses any backup that someone else could have changed. 'Open an app' now opens only real applications — the built-in ones, anything from the Apps page, or the Apps menu — and only with files or web addresses, never options; running commands stays behind its confirmation. And the old second copy of the service units is gone, so every installation runs the assistant as the unprivileged osprime user."
+  "notes": "The web interface now listens only on this computer, and refuses requests that come from other websites open in the browser, from pages pretending to be localhost (DNS rebinding), and from being framed inside another page. Until now it listened on every network interface, and any site open in the browser could change settings — including turning confirmations off."
 }
