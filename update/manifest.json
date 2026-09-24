@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.23-2017",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.23-2017.tar.gz",
-  "sha256": "8ba8c04d5f43047b2b753a113eb312bc13b7d5256fadfab9c85963b815f8f69b",
+  "version": "2026.09.23-2319",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.23-2319.tar.gz",
+  "sha256": "83f8c2e77314f92311e38f07878375d81d8f2ea46077c126dbf633a41446f39a",
   "packages": [],
-  "notes": "Five security fixes that fail closed: a dangerous action with nobody to ask is now refused instead of performed; 'use the cloud only when I ask' no longer sends the conversation to Claude on its own when the local engine is down; reading a file now redacts secrets the same way a shell command already did; the audit log records whether a tool actually succeeded; and two reminders set for the same time both run."
+  "notes": "Three more security fixes. Rolling back can no longer install code the assistant could have written: backups now live where only root can write, and root refuses any backup that someone else could have changed. 'Open an app' now opens only real applications — the built-in ones, anything from the Apps page, or the Apps menu — and only with files or web addresses, never options; running commands stays behind its confirmation. And the old second copy of the service units is gone, so every installation runs the assistant as the unprivileged osprime user."
 }
