@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.23-2330",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.23-2330.tar.gz",
-  "sha256": "64235a3ab5fbcd79bba47ffb7389a2721db764b31226f4f56ed9b2000e552c5a",
+  "version": "2026.09.24-0006",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.24-0006.tar.gz",
+  "sha256": "1ac5277dc7f3246e0b9c54af8958ab2311a382e7c6c85289d533ca5591674e03",
   "packages": [],
-  "notes": "The web interface now listens only on this computer, and refuses requests that come from other websites open in the browser, from pages pretending to be localhost (DNS rebinding), and from being framed inside another page. Until now it listened on every network interface, and any site open in the browser could change settings — including turning confirmations off."
+  "notes": "Use OSprime from your phone. In Settings → Network → Other devices, switch on access from this network and pair a phone by scanning the code on screen. Off by default; each device can be removed on its own; anything that needs approval is approved at the computer unless you allow a device to. Also: rolling back an update now puts the system files back too, and an update whose system files fail to install is rolled back instead of reported as a success."
 }
