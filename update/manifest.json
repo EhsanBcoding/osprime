@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.23-1634",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.23-1634.tar.gz",
-  "sha256": "b3426389807377e4064104810a08b492581fcfe14866cedbf7425afd16eb7d44",
+  "version": "2026.09.23-1843",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.23-1843.tar.gz",
+  "sha256": "5c654be8b5ee705c3037b9b6e11514b357c2688a20ca5016f06394817ef8acfd",
   "packages": [],
-  "notes": "The companion: a movable OSprime button on the desktop that replaces the panel pill, shows when the assistant is working, and can be dragged anywhere. Plus proactivity rules that default to silence."
+  "notes": "Tool groups: the assistant is now shown only the tools a request needs — at most 23 instead of 65. This is what broke on the vision models, where 65 tool definitions filled 88% of the window and the assistant denied abilities it had. Also: malformed tool calls from the model are now tolerated instead of failing the turn."
 }
