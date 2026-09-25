@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.25-1027",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1027.tar.gz",
-  "sha256": "eb7370af725c369eca4c79b099b086216a29ab09a4b6ae6480c1de8c20a40726",
+  "version": "2026.09.25-1056",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1056.tar.gz",
+  "sha256": "f2e92cddc1cf0cdf08f49e6d502c3fc7155574e9e155fa07474fedaf8ef93071",
   "packages": [],
-  "notes": "Photos: the vision model now gets your actual question and answers only that, instead of describing the whole picture."
+  "notes": "Adds the round 3 model measurement (Qwen3.5-9B with eyes vs today's model vs a coder)."
 }
