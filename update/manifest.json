@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.24-2236",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.24-2236.tar.gz",
-  "sha256": "36ed3e226c6a4a374b6b364f7270cd670ade3b9386fa00d6e2d0bdd0439599cb",
+  "version": "2026.09.25-0938",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-0938.tar.gz",
+  "sha256": "527a01e0d6b9692b44776c7a06f0c8aa534fec5f736c7b7155d2b46ff7ef4133",
   "packages": [],
-  "notes": "Model measurement, round 2: every layout is now tested with the full photo and a 768-pixel copy, plus two new layouts — the vision model's projector on the NVIDIA card with the rest on the CPU, and swapping models on the card one at a time (asks first; the chat always comes back)."
+  "notes": "Vision becomes a specialist: the main model stays the text 7B, and a photo borrows the graphics card for a few seconds (run osprime-add-vision.sh once)."
 }
