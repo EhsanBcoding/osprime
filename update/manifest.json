@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.25-1329",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1329.tar.gz",
-  "sha256": "0bf08562f799bf093030ae84824e94764680a594b3ee95d2986c9b8d0462453b",
+  "version": "2026.09.25-1350",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1350.tar.gz",
+  "sha256": "36e8ed6fdfddddac125aecb24d36908cb75617f410e7223924dfec97b06f8698",
   "packages": [],
-  "notes": "Adds python-openpyxl (Excel files) to the Python setup."
+  "notes": "Groundwork for logins: one module decides where a person's data lives (no change on this machine yet)."
 }
