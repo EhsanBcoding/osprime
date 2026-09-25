@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.25-1143",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1143.tar.gz",
-  "sha256": "7f5175f4fbdf02b14a479518106dfb85914b81eee22953bd3586a1f656951958",
+  "version": "2026.09.25-1259",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1259.tar.gz",
+  "sha256": "5e9e6151357e5d2ca3e66f9fa32a2324c4248cda957617d4d2fdf67bfb03ad95",
   "packages": [],
-  "notes": "Qwen3.5 9B: one model that talks, sees and codes. Settings → Home offers the switch on an 8 GB graphics card; photos then need no second model."
+  "notes": "Fixes from the first Qwen3.5 chat: it no longer claims to see through Qwen2.5-VL; save_chat takes a name and folder; CPU threads reported as threads."
 }
