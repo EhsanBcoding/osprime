@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.24-1827",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.24-1827.tar.gz",
-  "sha256": "62d56abeb51c959e3e5a77157fbda63f7e1eadb1d6b904edd758f3f9a1792872",
+  "version": "2026.09.24-1910",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.24-1910.tar.gz",
+  "sha256": "443af99b6ef7505026a52ad78c12150f87fb7c948e58096baca9a387507a20f4",
   "packages": [],
-  "notes": "Persian requests: the assistant no longer describes a tool instead of using it ('I should use system_info, please instruct me'). 'بگو ببینم' no longer offers the camera. 'take a picture' reaches the camera, 'the last photo in the camera folder' reaches your files, and a question about Persian food no longer offers to change the system language. New: bash /opt/osprime/shell/osprime-report.sh opens what the assistant used in the text editor."
+  "notes": "Answers now come in the language you wrote in — a Persian question gets a Persian answer. 'Save this chat' writes the real conversation, word for word, to a text file in Documents, instead of the assistant trying to retype it. Asking which graphics card it uses, or about the laptop's hardware, now reaches the tool that knows."
 }
