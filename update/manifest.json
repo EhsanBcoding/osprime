@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.25-1524",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1524.tar.gz",
-  "sha256": "3948f7ece3e699fc58fa2e19a5e7a17083cad096c3e383f57e6c12303212079f",
+  "version": "2026.09.25-1533",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1533.tar.gz",
+  "sha256": "7c46310c76763f5d0816eeb20fb3a16516fde01bb9bef90f1fcc0a1307a0db9e",
   "packages": [],
-  "notes": "Lock screen in the menu and Super+L; the installer gives new machines a login and a person account."
+  "notes": "Updates now reach the desktop's key bindings and menu without a logout (Super+L needed one)."
 }
