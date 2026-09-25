@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.24-0147",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.24-0147.tar.gz",
-  "sha256": "b3e69b57d526e4044c2a0027c4f675f08fff5fdac13034b08451828e4983333f",
+  "version": "2026.09.24-1806",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.24-1806.tar.gz",
+  "sha256": "3be8c1f51ccc7ca70106e711dd31b05cdb307f010c5c54813909528ac2e0a5f9",
   "packages": [],
-  "notes": "Picking a random number, doing a calculation or checking the weather no longer asks for permission — they change nothing. The vision models now use a 16384-token context by default, measured on the reference laptop."
+  "notes": "Persian requests: the assistant kept describing a tool — 'I should use system_info, please instruct me' — instead of using it. It now uses it, or is corrected once. Also from reading the real log: 'take a picture' reaches the camera, 'the last photo in the camera folder' reaches your files, and asking for a Persian dish no longer offers to change the system language. New: bash /opt/osprime/shell/osprime-report.sh shows what the assistant used, in the text editor, where Persian is readable."
 }
