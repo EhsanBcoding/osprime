@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.25-1313",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1313.tar.gz",
-  "sha256": "ab1c29297400aea7332cdc04ce9a40ff5e5d8d647466d896fac81edddd555230",
+  "version": "2026.09.25-1329",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1329.tar.gz",
+  "sha256": "0bf08562f799bf093030ae84824e94764680a594b3ee95d2986c9b8d0462453b",
   "packages": [],
-  "notes": "Python that just works: OSprime's own environment (pip install needs no sudo), and a one-time setup for matplotlib, numpy, pillow, pandas and requests."
+  "notes": "Adds python-openpyxl (Excel files) to the Python setup."
 }
