@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.25-1350",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1350.tar.gz",
-  "sha256": "36e8ed6fdfddddac125aecb24d36908cb75617f410e7223924dfec97b06f8698",
+  "version": "2026.09.25-1410",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1410.tar.gz",
+  "sha256": "6d4fbec8027a969dcd7390783f8a14c6a8b64fe9a5697e1e5c3d5c2c1da14e9b",
   "packages": [],
-  "notes": "Groundwork for logins: one module decides where a person's data lives (no change on this machine yet)."
+  "notes": "Groundwork for logins, part 2: each person's settings on top of the machine's (no change on this machine yet)."
 }
