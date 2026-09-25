@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.25-1056",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1056.tar.gz",
-  "sha256": "f2e92cddc1cf0cdf08f49e6d502c3fc7155574e9e155fa07474fedaf8ef93071",
+  "version": "2026.09.25-1143",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1143.tar.gz",
+  "sha256": "7f5175f4fbdf02b14a479518106dfb85914b81eee22953bd3586a1f656951958",
   "packages": [],
-  "notes": "Adds the round 3 model measurement (Qwen3.5-9B with eyes vs today's model vs a coder)."
+  "notes": "Qwen3.5 9B: one model that talks, sees and codes. Settings → Home offers the switch on an 8 GB graphics card; photos then need no second model."
 }
