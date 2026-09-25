@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.24-1806",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.24-1806.tar.gz",
-  "sha256": "3be8c1f51ccc7ca70106e711dd31b05cdb307f010c5c54813909528ac2e0a5f9",
+  "version": "2026.09.24-1827",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.24-1827.tar.gz",
+  "sha256": "62d56abeb51c959e3e5a77157fbda63f7e1eadb1d6b904edd758f3f9a1792872",
   "packages": [],
-  "notes": "Persian requests: the assistant kept describing a tool — 'I should use system_info, please instruct me' — instead of using it. It now uses it, or is corrected once. Also from reading the real log: 'take a picture' reaches the camera, 'the last photo in the camera folder' reaches your files, and asking for a Persian dish no longer offers to change the system language. New: bash /opt/osprime/shell/osprime-report.sh shows what the assistant used, in the text editor, where Persian is readable."
+  "notes": "Persian requests: the assistant no longer describes a tool instead of using it ('I should use system_info, please instruct me'). 'بگو ببینم' no longer offers the camera. 'take a picture' reaches the camera, 'the last photo in the camera folder' reaches your files, and a question about Persian food no longer offers to change the system language. New: bash /opt/osprime/shell/osprime-report.sh opens what the assistant used in the text editor."
 }
