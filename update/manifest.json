@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.25-0938",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-0938.tar.gz",
-  "sha256": "527a01e0d6b9692b44776c7a06f0c8aa534fec5f736c7b7155d2b46ff7ef4133",
+  "version": "2026.09.25-0957",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-0957.tar.gz",
+  "sha256": "81cdda7abc2791d4dc04a065325cbec9bd16e926e9855b5028774597da50b5f6",
   "packages": [],
-  "notes": "Vision becomes a specialist: the main model stays the text 7B, and a photo borrows the graphics card for a few seconds (run osprime-add-vision.sh once)."
+  "notes": "Eyes in Settings: Home shows the model that talks and the one that sees, with Add eyes / Remove eyes and the last look. The profiler no longer replaces the talking model with a vision one."
 }
