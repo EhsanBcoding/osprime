@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.25-1533",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.25-1533.tar.gz",
-  "sha256": "7c46310c76763f5d0816eeb20fb3a16516fde01bb9bef90f1fcc0a1307a0db9e",
+  "version": "2026.09.26-0523",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-0523.tar.gz",
+  "sha256": "57bd5e030e7e43baadc39b91e26885166c49efdb0ca32a3d6e8461c21c14109a",
   "packages": [],
-  "notes": "Updates now reach the desktop's key bindings and menu without a logout (Super+L needed one)."
+  "notes": "Installer: disk encryption (LUKS2) with TPM unlock by default, TPM+PIN or a password as options, and a recovery key."
 }
