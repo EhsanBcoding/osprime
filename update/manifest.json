@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.26-0957",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-0957.tar.gz",
-  "sha256": "dc115b2806a292b38bfb8a88072c69f2d3a82a9d67f1dcd970babfe0323e888b",
+  "version": "2026.09.26-1048",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-1048.tar.gz",
+  "sha256": "bd0668aad892584a3e7dfc24683e832f353e6f68b5ff59408e7e9e3758420a83",
   "packages": [],
-  "notes": "Settings → Home now really shows Disk and Python libraries (they were wired to the wrong function)."
+  "notes": "Installer: the whole recovery key is typed back and tested against the disk before the install finishes."
 }
