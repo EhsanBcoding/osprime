@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.26-1104",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-1104.tar.gz",
-  "sha256": "0aa89ca229b89100781c8d6b69b3fb76d0c996eb31849ed883338dd2590eefcc",
+  "version": "2026.09.26-1219",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-1219.tar.gz",
+  "sha256": "c7b0b6c1cd12c7e32050f29a6e3035c9990b8414952638f8fe21806bad94a0a4",
   "packages": [],
-  "notes": "Settings → People: add, remove and manage the people who use this computer; change your own password; machine-wide buttons are for administrators."
+  "notes": "Apps: administrators install for everyone, anyone can install just for themselves. Keyboard shortcuts are personal."
 }
