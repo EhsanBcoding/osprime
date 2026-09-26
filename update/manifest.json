@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.26-0543",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-0543.tar.gz",
-  "sha256": "6106562b732be4cb764e3b91cf63ab47d6a3f6feca1b598ade11336c217d3f02",
+  "version": "2026.09.26-0638",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-0638.tar.gz",
+  "sha256": "96d18801b992dd5c0f78ed337b0d740b4678244d880a9686e9190c581e6958f7",
   "packages": [],
-  "notes": "Adds osprime-vm-test.sh: try an OSprime ISO in a VM with UEFI and a TPM."
+  "notes": "Installer never offers a disk that is in use (the running system's own); VM script says when the ISO path is wrong."
 }
