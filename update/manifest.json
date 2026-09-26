@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.26-0908",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-0908.tar.gz",
-  "sha256": "f7b12972a3dd2cd0eaba345a8f41ba033de2b221e024ac7cbfe534d848d0e1e9",
+  "version": "2026.09.26-0957",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-0957.tar.gz",
+  "sha256": "dc115b2806a292b38bfb8a88072c69f2d3a82a9d67f1dcd970babfe0323e888b",
   "packages": [],
-  "notes": "ISO builds stamp their own version, so a fresh install is never 'updated' back to older code."
+  "notes": "Settings → Home now really shows Disk and Python libraries (they were wired to the wrong function)."
 }
