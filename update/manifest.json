@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.26-1219",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-1219.tar.gz",
-  "sha256": "c7b0b6c1cd12c7e32050f29a6e3035c9990b8414952638f8fe21806bad94a0a4",
+  "version": "2026.09.26-1455",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-1455.tar.gz",
+  "sha256": "0061cf30a44d1925b3d111984c416ec1068f37c2b95dca0f4f19762cd5d858c6",
   "packages": [],
-  "notes": "Apps: administrators install for everyone, anyone can install just for themselves. Keyboard shortcuts are personal."
+  "notes": ""
 }
