@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.26-1048",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-1048.tar.gz",
-  "sha256": "bd0668aad892584a3e7dfc24683e832f353e6f68b5ff59408e7e9e3758420a83",
+  "version": "2026.09.26-1104",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-1104.tar.gz",
+  "sha256": "0aa89ca229b89100781c8d6b69b3fb76d0c996eb31849ed883338dd2590eefcc",
   "packages": [],
-  "notes": "Installer: the whole recovery key is typed back and tested against the disk before the install finishes."
+  "notes": "Settings → People: add, remove and manage the people who use this computer; change your own password; machine-wide buttons are for administrators."
 }
