@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.26-0528",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-0528.tar.gz",
-  "sha256": "ba3bc9fcafad3d74f376a3d52ceef5ed1e88fa81b2ceeedecab6cb8be3fe018c",
+  "version": "2026.09.26-0543",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.09.26-0543.tar.gz",
+  "sha256": "6106562b732be4cb764e3b91cf63ab47d6a3f6feca1b598ade11336c217d3f02",
   "packages": [],
-  "notes": "Disk encryption: Settings shows whether the disk is encrypted and how it unlocks; osprime-disk-unlock.sh changes it."
+  "notes": "Adds osprime-vm-test.sh: try an OSprime ISO in a VM with UEFI and a TPM."
 }
