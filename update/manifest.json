@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.04-2036",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.04-2036.tar.gz",
-  "sha256": "2af15b014cc94f9fea8ba45696699f3d78e2d5ef14984fa00e5449754dfbdd2d",
+  "version": "2026.10.04-2113",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.04-2113.tar.gz",
+  "sha256": "087dc8fafacc0cc4180f6d4e47940979629bb3b8e9d2c9e25ea722372a249bf3",
   "packages": [],
-  "notes": "File search: route 'the document with X in it' to search_files; show what was searched"
+  "notes": "Settings shows the assistant's memory again (it read the pre-accounts path)"
 }
