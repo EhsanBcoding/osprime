@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.04-2012",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.04-2012.tar.gz",
-  "sha256": "109504b086f4c982a109756b04ec893851cf26efd242ea5798353e9633ffc5e4",
+  "version": "2026.10.04-2036",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.04-2036.tar.gz",
+  "sha256": "2af15b014cc94f9fea8ba45696699f3d78e2d5ef14984fa00e5449754dfbdd2d",
   "packages": [],
-  "notes": "File search by meaning: replace the embedding model (the first one had a broken tokenizer)"
+  "notes": "File search: route 'the document with X in it' to search_files; show what was searched"
 }
