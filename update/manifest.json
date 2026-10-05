@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.04-2113",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.04-2113.tar.gz",
-  "sha256": "087dc8fafacc0cc4180f6d4e47940979629bb3b8e9d2c9e25ea722372a249bf3",
+  "version": "2026.10.05-1420",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.05-1420.tar.gz",
+  "sha256": "ff578b6d1251fc6f23b263ea09e696a8350a7e3ada8150476e17607191c95570",
   "packages": [],
-  "notes": "Settings shows the assistant's memory again (it read the pre-accounts path)"
+  "notes": "Keyboard languages: Persian (Windows layout), Alt+Shift, EN/FA on the panel; Super alone opens the chat"
 }
