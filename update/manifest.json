@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.05-2239",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.05-2239.tar.gz",
-  "sha256": "0080b0474e6b73a83cb2434b525ef17d9621c7ac5e8dda79a6cb21abda74524a",
+  "version": "2026.10.05-2306",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.05-2306.tar.gz",
+  "sha256": "692e79e4ec45379f7e31095ec71d73c6228a9669d03b5f193326183455b56a74",
   "packages": [],
-  "notes": "Memory: the assistant writes notes in your own words, about the right person, linked from About me"
+  "notes": "Notes: the graph — how your notes and people connect, plus a local graph beside each note"
 }
