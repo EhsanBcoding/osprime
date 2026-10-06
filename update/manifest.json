@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.05-1557",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.05-1557.tar.gz",
-  "sha256": "76ab07963b4f8083cb1d2527b9e2d1abac3fe4afe38c8bce720c9c76431a9fa4",
+  "version": "2026.10.05-1727",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.05-1727.tar.gz",
+  "sha256": "bce4ee99a627615ec88bc4663049ee612359327e128f8c12354cac972874b5d6",
   "packages": [],
-  "notes": "Memory is now notes in ~/Memory: remember / recall / forget, Remembered · Undo, a daily journal"
+  "notes": "The Notes app: ~/Memory with search, an editor, [[links]] and backlinks"
 }
