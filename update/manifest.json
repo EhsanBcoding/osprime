@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.05-2217",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.05-2217.tar.gz",
-  "sha256": "db2b0e850aa91c8dd395a6ecdb7b0653a0c1794b4b2c6f023663a5c0eaf94533",
+  "version": "2026.10.05-2239",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.05-2239.tar.gz",
+  "sha256": "0080b0474e6b73a83cb2434b525ef17d9621c7ac5e8dda79a6cb21abda74524a",
   "packages": [],
-  "notes": "Alt+Shift on the lock screen; a person named in passing gets a note and a link"
+  "notes": "Memory: the assistant writes notes in your own words, about the right person, linked from About me"
 }
