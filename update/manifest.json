@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.06-0536",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.06-0536.tar.gz",
-  "sha256": "570cfda281157aa8fe82e5a4bd2574460a7c53d96757d390d0a81f1619b99897",
+  "version": "2026.10.06-0649",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.06-0649.tar.gz",
+  "sha256": "daf94b785be91849baf9045ef1511a0d4b386ee76afe025611c221e8cb40dd1b",
   "packages": [],
-  "notes": "Tool check 2: look before answering, no claims without action, Word documents without an office suite, wallpaper words, app search, open Notes"
+  "notes": "Smaller prompt (rules travel with their tools); skills you teach the assistant, in ~/Memory/Skills; Persian skill words"
 }
