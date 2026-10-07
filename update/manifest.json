@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.07-0947",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.07-0947.tar.gz",
-  "sha256": "e6c5eea00d5abbb58c727db5a615186db9c948620793397963d37543af651607",
+  "version": "2026.10.07-1117",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.07-1117.tar.gz",
+  "sha256": "2f45c167461151b6812fc696c1fc2ed1732219bff5984f41f8c15efb2d7f2214",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Fix: memory switches and recent changes not drawn in Settings"
+  "notes": "Fix: reminder that repeated every minute; reminders list; terminal copy/paste"
 }
