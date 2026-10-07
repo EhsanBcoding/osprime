@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.07-0850",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.07-0850.tar.gz",
-  "sha256": "1d02a3736db1c0a97176e6e5cb50a8fccaea07d434dedb5ad5a60ad21e4eba7c",
+  "version": "2026.10.07-0947",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.07-0947.tar.gz",
+  "sha256": "e6c5eea00d5abbb58c727db5a615186db9c948620793397963d37543af651607",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Fix: memory switches in Settings that did not stick"
+  "notes": "Fix: memory switches and recent changes not drawn in Settings"
 }
