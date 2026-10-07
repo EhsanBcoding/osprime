@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.06-0649",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.06-0649.tar.gz",
-  "sha256": "daf94b785be91849baf9045ef1511a0d4b386ee76afe025611c221e8cb40dd1b",
+  "version": "2026.10.07-0406",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.07-0406.tar.gz",
+  "sha256": "f196fe5ee170f97de1e3bd0cbfc7f44e9ec04b1e00213c3c9ec0d2c34526de07",
   "packages": [],
-  "notes": "Smaller prompt (rules travel with their tools); skills you teach the assistant, in ~/Memory/Skills; Persian skill words"
+  "notes": "Screenshots no longer freeze; one browser, no 'Profile error' windows; teaching a skill is saved"
 }
