@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.07-0522",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.07-0522.tar.gz",
-  "sha256": "ce156663c63aea1b4f1eb96831dae0b683eb5e027f42bef4f6815ae22f8cf709",
-  "packages": [],
-  "notes": "Graphical installer: full screen, 8 languages"
+  "version": "2026.10.07-0630",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.07-0630.tar.gz",
+  "sha256": "20acb5cea6b171ca462fda5822f082534ffa6b6c68ad94888289e895d86a0bf7",
+  "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
+  "notes": "LibreOffice (office suite, Persian) + graphical installer"
 }
