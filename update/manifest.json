@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.07-0751",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.07-0751.tar.gz",
-  "sha256": "39f94594e973da696e3be69c4ec946929ad470c43361f00d8c44410128a2974f",
+  "version": "2026.10.07-0850",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.07-0850.tar.gz",
+  "sha256": "1d02a3736db1c0a97176e6e5cb50a8fccaea07d434dedb5ad5a60ad21e4eba7c",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Cloud models: one switch, saved keys for 9 services (+ LibreOffice)"
+  "notes": "Fix: memory switches in Settings that did not stick"
 }
