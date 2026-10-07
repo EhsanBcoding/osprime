@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.07-0406",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.07-0406.tar.gz",
-  "sha256": "f196fe5ee170f97de1e3bd0cbfc7f44e9ec04b1e00213c3c9ec0d2c34526de07",
+  "version": "2026.10.07-0522",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.07-0522.tar.gz",
+  "sha256": "ce156663c63aea1b4f1eb96831dae0b683eb5e027f42bef4f6815ae22f8cf709",
   "packages": [],
-  "notes": "Screenshots no longer freeze; one browser, no 'Profile error' windows; teaching a skill is saved"
+  "notes": "Graphical installer: full screen, 8 languages"
 }
