@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.08-0453",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.08-0453.tar.gz",
-  "sha256": "bd0468688d8530eba3c0373c43f8e4ed0ae33d4a0ce4f5642ca5d1e531fba8a4",
+  "version": "2026.10.08-0524",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.08-0524.tar.gz",
+  "sha256": "afa80db8097e00a0a9bcf9282be4bdc18b59b85b792d89317a4bdc1958d27fae",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Companion becomes a character (Pearl, Coral) with a quick-ask bubble"
+  "notes": "Companion: talk to it with Super+Space"
 }
