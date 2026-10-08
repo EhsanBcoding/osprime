@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.08-0805",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.08-0805.tar.gz",
-  "sha256": "6acc11a105ddff9a7aa74cb4f349f61fff0f2130817964832f84e0a945307ac5",
+  "version": "2026.10.08-0825",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.08-0825.tar.gz",
+  "sha256": "d2126dfe401e1ab3919aafe513af93f133746bdad8edd6eae6bd82ce52f76461",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Companion: Super+T, ask about part of the screen"
+  "notes": "Companion: show me how — a step-by-step guide with a strand"
 }
