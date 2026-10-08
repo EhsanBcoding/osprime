@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.07-1117",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.07-1117.tar.gz",
-  "sha256": "2f45c167461151b6812fc696c1fc2ed1732219bff5984f41f8c15efb2d7f2214",
+  "version": "2026.10.08-0453",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.08-0453.tar.gz",
+  "sha256": "bd0468688d8530eba3c0373c43f8e4ed0ae33d4a0ce4f5642ca5d1e531fba8a4",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Fix: reminder that repeated every minute; reminders list; terminal copy/paste"
+  "notes": "Companion becomes a character (Pearl, Coral) with a quick-ask bubble"
 }
