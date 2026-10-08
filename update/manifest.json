@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.08-0524",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.08-0524.tar.gz",
-  "sha256": "afa80db8097e00a0a9bcf9282be4bdc18b59b85b792d89317a4bdc1958d27fae",
+  "version": "2026.10.08-0550",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.08-0550.tar.gz",
+  "sha256": "3b1f0b09deebf9813c081e8f363e91eee53842d2185b9a2bcbaec4fdfa465b71",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Companion: talk to it with Super+Space"
+  "notes": "Fix: spoken questions were never transcribed (WAV name clash)"
 }
