@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.09-0125",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.09-0125.tar.gz",
-  "sha256": "c8d5455beb12ee38f651f28ecc3d2a9ee80295241b79e374792fa9fb134f81e5",
+  "version": "2026.10.09-0420",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.09-0420.tar.gz",
+  "sha256": "df0f1dfbaa6fcfcc1ce4bcb954b46f583af069fde3cf8f40b9324a075f1b9767",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Guide: open a page or app as a step, web pages first, cloud tip"
+  "notes": "Helpers: researcher, trader, engineer in a new companion panel"
 }
