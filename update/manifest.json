@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.09-0947",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.09-0947.tar.gz",
-  "sha256": "1ba218a6b479242bf0ae9f0a7c7c81f0764d9e75838ce27b66fd0a15d6c37d36",
+  "version": "2026.10.09-1012",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.09-1012.tar.gz",
+  "sha256": "f1725be58b15d72e537525435e29b0623b3e033d7d183365a13b36bfaccfbf4a",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Brainy: live activity, drop a file on it, shortcuts ask before taking used keys"
+  "notes": "Brainy: pokes, open on hover and small sounds (both off by default)"
 }
