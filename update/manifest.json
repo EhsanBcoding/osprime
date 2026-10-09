@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.09-0747",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.09-0747.tar.gz",
-  "sha256": "9149108351dfa78953b32343f8b12b9704019204eea61da1c2bdeda4c2bf4e6f",
+  "version": "2026.10.09-0912",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.09-0912.tar.gz",
+  "sha256": "fcecba99fca7e039a9b5367ef543e0d2045c8d974e3a2f969b3bf05b66f8fcf9",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Helpers step 3: watchers and alerts; Health, Student, Writer, Office helpers"
+  "notes": "OSprime on the phone: helpers, chat per helper, alerts, home-screen app"
 }
