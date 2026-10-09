@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.08-0825",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.08-0825.tar.gz",
-  "sha256": "d2126dfe401e1ab3919aafe513af93f133746bdad8edd6eae6bd82ce52f76461",
+  "version": "2026.10.09-0125",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.09-0125.tar.gz",
+  "sha256": "c8d5455beb12ee38f651f28ecc3d2a9ee80295241b79e374792fa9fb134f81e5",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Companion: show me how — a step-by-step guide with a strand"
+  "notes": "Guide: open a page or app as a step, web pages first, cloud tip"
 }
