@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.09-0912",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.09-0912.tar.gz",
-  "sha256": "fcecba99fca7e039a9b5367ef543e0d2045c8d974e3a2f969b3bf05b66f8fcf9",
+  "version": "2026.10.09-0928",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.09-0928.tar.gz",
+  "sha256": "830d26b80226bdeb99fd6d0567293628ab91487ffec83a2cb0e0f0c9348dabe2",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "OSprime on the phone: helpers, chat per helper, alerts, home-screen app"
+  "notes": "Phone: the microphone button no longer opens the camera"
 }
