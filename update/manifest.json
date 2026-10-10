@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.09-1154",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.09-1154.tar.gz",
-  "sha256": "77d831b4b59acf39a692bb74ffab7564b5c2ee016ce421b64a0e01b959d1eaa7",
+  "version": "2026.10.09-2233",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.09-2233.tar.gz",
+  "sha256": "5bf0d7a25ddfb922c9c945520078827cf4c8ebabe68838e0d714ac208885407c",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Brainy: wardrobe and the weekly recap"
+  "notes": "Encrypted disks: move to /etc/crypttab (mkinitcpio 42), safely"
 }
