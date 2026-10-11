@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.09-2233",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.09-2233.tar.gz",
-  "sha256": "5bf0d7a25ddfb922c9c945520078827cf4c8ebabe68838e0d714ac208885407c",
+  "version": "2026.10.10-0724",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.10-0724.tar.gz",
+  "sha256": "ca9feee8d4561c5a75ee8a28ff5eb5aa8ab06d7495a58b0b3fc7d26c5b0fd1fe",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Encrypted disks: move to /etc/crypttab (mkinitcpio 42), safely"
+  "notes": "Guide: keep a guide and show it again the same way; exact window position"
 }
