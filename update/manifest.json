@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.12-0534",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.12-0534.tar.gz",
-  "sha256": "c4d5ee0d27fa2d906618a48f7edd0a68e7386bbb3b86e09401c9908525b6d04c",
+  "version": "2026.10.12-0558",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.12-0558.tar.gz",
+  "sha256": "3d49f7b00f5ce3d29b6844aed806f8993b85c6e7f4498a0c882b710e1efc478f",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
   "notes": ""
 }
