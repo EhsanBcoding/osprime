@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.10-0724",
-  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.10-0724.tar.gz",
-  "sha256": "ca9feee8d4561c5a75ee8a28ff5eb5aa8ab06d7495a58b0b3fc7d26c5b0fd1fe",
+  "version": "2026.10.10-1827",
+  "url": "https://ehsanbcoding.github.io/osprime/update/osprime-2026.10.10-1827.tar.gz",
+  "sha256": "8fd5628865f06a44652ac6ccecd58d022836842db7a2dd8e3e08c53784d5f5a4",
   "packages": ["libreoffice-fresh","libreoffice-fresh-fa"],
-  "notes": "Guide: keep a guide and show it again the same way; exact window position"
+  "notes": "Answers stream as they are written, local and cloud"
 }
